@@ -1,7 +1,5 @@
 # CodeGenio
 
-CodeGenio: ¡Aprende Programación Jugando!
-
 CodeGenio es una plataforma web interactiva diseñada para que niños y principiantes aprendan los fundamentos de la programación de una manera divertida, visual y atractiva. A través de lecciones gamificadas, un asistente de IA amigable y un sistema de progreso, los usuarios se embarcan en una aventura para convertirse en genios del código.
   Características Principales
 
@@ -33,7 +31,7 @@ Stack Tecnológico
 
     Inteligencia Artificial: OpenAI API (usando el modelo gpt-4.1-nano)
     
-🔧 Instalación y Puesta en Marcha
+  Instalación y Puesta en Marcha
 
 Para ejecutar este proyecto en tu entorno local, sigue estos pasos:
 
