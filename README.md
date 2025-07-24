@@ -51,7 +51,7 @@ Configura las variables de entorno:
     Añade tu clave de API de OpenAI.
 
 
-# .env
+# .env.local
 OPENAI_API_KEY=sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
     
